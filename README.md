@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cokemi
+- 👀 I’m interested in React and Typescript for now 
+- 🌱 I’m currently learning React + Typescript
+- 💞️ I’m looking to collaborate on the community developers
+- 📫 How to reach me: jgaldeanol@gmail.com
